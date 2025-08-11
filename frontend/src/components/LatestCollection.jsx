@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { ShopContext } from '../context/ShopContext';
 import  { useContext } from 'react';
 import Title from './Title';
-import ProductItem from './Productitem';
+import ProductItem from './ProductItem';
 
 const LatestCollection = () => {
 
